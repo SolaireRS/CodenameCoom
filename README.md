@@ -1,4 +1,4 @@
-# Exilius client
+# CodenameCoom
 ## Run arguments
 * --local/-l: localhost connection
 * --developer/-d: developer mode
