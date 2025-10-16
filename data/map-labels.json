@@ -1,0 +1,101 @@
+[
+  {
+    "text": "Varrock",
+    "x": 3210,
+    "y": 3424,
+    "size": 16,
+    "align": "center",
+    "bold": true,
+    "colour": "#FFD700"
+  },
+  {
+    "text": "Lumbridge",
+    "x": 3222,
+    "y": 3218,
+    "size": 14,
+    "align": "center",
+    "bold": true,
+    "colour": "#90EE90"
+  },
+  {
+    "text": "Falador",
+    "x": 2965,
+    "y": 3306,
+    "size": 16,
+    "align": "center",
+    "bold": true,
+    "colour": "#ADD8E6"
+  },
+  {
+    "text": "Draynor Village",
+    "x": 3093,
+    "y": 3244,
+    "size": 12,
+    "align": "center",
+    "bold": false,
+    "colour": "#FFFFFF"
+  },
+  {
+    "text": "Edgeville",
+    "x": 3087,
+    "y": 3496,
+    "size": 12,
+    "align": "center",
+    "bold": false,
+    "colour": "#FFFFFF"
+  },
+  {
+    "text": "Wilderness",
+    "x": 3100,
+    "y": 3700,
+    "size": 20,
+    "align": "center",
+    "bold": true,
+    "colour": "#8B0000"
+  },
+  {
+    "text": "Karamja",
+    "x": 2900,
+    "y": 3100,
+    "size": 14,
+    "align": "center",
+    "bold": true,
+    "colour": "#228B22"
+  },
+  {
+    "text": "Ardougne",
+    "x": 2662,
+    "y": 3305,
+    "size": 16,
+    "align": "center",
+    "bold": true,
+    "colour": "#8B4513"
+  },
+  {
+    "text": "Yanille",
+    "x": 2606,
+    "y": 3093,
+    "size": 12,
+    "align": "center",
+    "bold": false,
+    "colour": "#FFFFFF"
+  },
+  {
+    "text": "Catherby",
+    "x": 2809,
+    "y": 3441,
+    "size": 11,
+    "align": "left",
+    "bold": false,
+    "colour": "#E0E0E0"
+  },
+  {
+    "text": "Seers' Village",
+    "x": 2725,
+    "y": 3484,
+    "size": 12,
+    "align": "center",
+    "bold": false,
+    "colour": "#FFFFFF"
+  }
+]

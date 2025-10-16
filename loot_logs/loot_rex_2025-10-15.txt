@@ -1,0 +1,23 @@
+2025-10-15 14:03:33 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-15 14:03:33 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-15 14:25:18 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-15 14:25:18 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-15 18:07:08 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-15 18:07:08 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-15 18:11:52 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-15 18:11:52 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-15 18:15:26 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-15 18:15:26 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-15 18:24:11 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-15 18:24:11 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-15 20:15:21 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-15 20:15:21 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-15 20:17:56 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-15 20:17:56 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-15 20:19:20 | rex | Sand Crab | ID:407 | Oyster x1 | 200 gp each | 200 gp total
+2025-10-15 20:19:27 | rex | Sand Crab | ID:1265 | Bronze pickaxe x1 | 1 gp each | 1 gp total
+2025-10-15 20:19:45 | rex | Sand Crab | ID:995 | Coins x1466 | 1 gp each | 1466 gp total
+2025-10-15 20:19:45 | rex | Sand Crab | ID:401 | Seaweed x1 | 2 gp each | 2 gp total
+2025-10-15 20:19:45 | rex | Sand Crab | ID:30000 | Resource box(small) x1 | 1 gp each | 1 gp total
+2025-10-15 20:21:36 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-15 20:21:36 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total

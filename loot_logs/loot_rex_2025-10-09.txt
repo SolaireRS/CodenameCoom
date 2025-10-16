@@ -1,0 +1,7 @@
+2025-10-09 00:16:51 | rex | Sand Crab | ID:407 | Oyster x1 | 200 gp each | 200 gp total
+2025-10-09 00:17:26 | rex | Sand Crab | ID:407 | Oyster x1 | 200 gp each | 200 gp total
+2025-10-09 00:18:47 | rex | Sand Crab | ID:1265 | Bronze pickaxe x1 | 1 gp each | 1 gp total
+2025-10-09 00:19:29 | rex | Lizard | ID:401 | Seaweed x1 | 2 gp each | 2 gp total
+2025-10-09 00:19:29 | rex | Lizard | ID:401 | Seaweed x1 | 2 gp each | 2 gp total
+2025-10-09 09:32:27 | rex | Ground loot | ID:401 | Seaweed x1 | 2 gp each | 2 gp total
+2025-10-09 09:32:27 | rex | Ground loot | ID:401 | Seaweed x1 | 2 gp each | 2 gp total

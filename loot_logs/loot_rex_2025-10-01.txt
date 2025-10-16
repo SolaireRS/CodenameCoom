@@ -1,0 +1,9 @@
+2025-10-01 19:47:40 | rex | Lizardman shaman | ID:532 | Big bones x1 | 1 gp each | 1 gp total
+2025-10-01 19:47:40 | rex | Lizardman shaman | ID:556 | Air rune x439 | 4 gp each | 1756 gp total
+2025-10-01 19:47:40 | rex | Lizardman shaman | ID:1407 | Mystic earth staff x1 | 42500 gp each | 42500 gp total
+2025-10-01 19:47:49 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-01 19:47:49 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-01 20:50:22 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-01 20:50:22 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-01 20:52:17 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-01 20:52:17 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total

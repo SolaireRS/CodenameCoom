@@ -1,0 +1,119 @@
+2025-10-08 12:19:38 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 12:19:38 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 12:31:12 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 12:31:12 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 13:21:11 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 13:21:11 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 13:45:05 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 13:45:05 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 13:58:08 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 13:58:08 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 14:25:18 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 14:25:18 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 14:29:20 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 14:29:20 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 14:32:23 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 14:32:23 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 14:53:40 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 14:53:40 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 16:10:50 | rex | Warrior | ID:407 | Oyster x1 | 200 gp each | 200 gp total
+2025-10-08 16:10:52 | rex | Warrior | ID:526 | Bones x1 | 1 gp each | 1 gp total
+2025-10-08 16:10:52 | rex | Warrior | ID:440 | Iron ore x1 | 17 gp each | 17 gp total
+2025-10-08 16:14:58 | rex | Rock Crab | ID:30000 | Resource box(small) x1 | 1 gp each | 1 gp total
+2025-10-08 16:15:05 | rex | Warrior | ID:526 | Bones x1 | 1 gp each | 1 gp total
+2025-10-08 16:15:05 | rex | Warrior | ID:995 | Coins x214 | 1 gp each | 214 gp total
+2025-10-08 16:15:15 | rex | Rock Crab | ID:409 | Empty oyster x1 | 5 gp each | 5 gp total
+2025-10-08 16:15:15 | rex | Rock Crab | ID:409 | Empty oyster x1 | 5 gp each | 5 gp total
+2025-10-08 16:15:15 | rex | Rock Crab | ID:409 | Empty oyster x1 | 5 gp each | 5 gp total
+2025-10-08 16:20:40 | rex | Hobgoblin | ID:526 | Bones x1 | 1 gp each | 1 gp total
+2025-10-08 16:21:34 | rex | Rock Crab | ID:995 | Coins x4996 | 1 gp each | 4996 gp total
+2025-10-08 16:21:36 | rex | Rock Crab | ID:1623 | Uncut sapphire x1 | 25 gp each | 25 gp total
+2025-10-08 16:21:46 | rex | Rock Crab | ID:995 | Coins x1594 | 1 gp each | 1594 gp total
+2025-10-08 16:21:46 | rex | Rock Crab | ID:440 | Iron ore x1 | 17 gp each | 17 gp total
+2025-10-08 16:21:51 | rex | Rock Crab | ID:989 | Crystal key x1 | 150 gp each | 150 gp total
+2025-10-08 16:29:31 | rex | Rock Crab | ID:1623 | Uncut sapphire x1 | 25 gp each | 25 gp total
+2025-10-08 16:31:05 | rex | Rock Crab | ID:405 | Casket x1 | 50 gp each | 50 gp total
+2025-10-08 16:31:10 | rex | Rock Crab | ID:1265 | Bronze pickaxe x1 | 1 gp each | 1 gp total
+2025-10-08 16:31:10 | rex | Rock Crab | ID:453 | Coal x1 | 45 gp each | 45 gp total
+2025-10-08 16:31:10 | rex | Rock Crab | ID:453 | Coal x1 | 45 gp each | 45 gp total
+2025-10-08 16:31:10 | rex | Rock Crab | ID:989 | Crystal key x1 | 150 gp each | 150 gp total
+2025-10-08 16:31:22 | rex | Hobgoblin | ID:526 | Bones x1 | 1 gp each | 1 gp total
+2025-10-08 16:31:22 | rex | Hobgoblin | ID:555 | Water rune x2 | 4 gp each | 8 gp total
+2025-10-08 16:32:26 | rex | Rock Crab | ID:401 | Seaweed x1 | 2 gp each | 2 gp total
+2025-10-08 16:32:28 | rex | Rock Crab | ID:1623 | Uncut sapphire x1 | 25 gp each | 25 gp total
+2025-10-08 16:32:34 | rex | Hobgoblin | ID:526 | Bones x1 | 1 gp each | 1 gp total
+2025-10-08 16:32:34 | rex | Hobgoblin | ID:554 | Fire rune x7 | 4 gp each | 28 gp total
+2025-10-08 20:24:09 | rex | Hobgoblin | ID:526 | Bones x1 | 1 gp each | 1 gp total
+2025-10-08 20:24:19 | rex | Rock Crab | ID:1265 | Bronze pickaxe x1 | 1 gp each | 1 gp total
+2025-10-08 20:24:19 | rex | Rock Crab | ID:30000 | Resource box(small) x1 | 1 gp each | 1 gp total
+2025-10-08 20:25:56 | rex | Rock Crab | ID:995 | Coins x3515 | 1 gp each | 3515 gp total
+2025-10-08 20:25:56 | rex | Rock Crab | ID:409 | Empty oyster x1 | 5 gp each | 5 gp total
+2025-10-08 20:27:09 | rex | Rock Crab | ID:526 | Bones x1 | 1 gp each | 1 gp total
+2025-10-08 20:27:09 | rex | Rock Crab | ID:1335 | Iron warhammer x1 | 173 gp each | 173 gp total
+2025-10-08 20:27:12 | rex | Rock Crab | ID:1623 | Uncut sapphire x1 | 25 gp each | 25 gp total
+2025-10-08 20:36:43 | rex | Warrior | ID:526 | Bones x1 | 1 gp each | 1 gp total
+2025-10-08 20:36:43 | rex | Warrior | ID:3711 | Keg of beer x1 | 1 gp each | 1 gp total
+2025-10-08 20:37:30 | rex | Rock Crab | ID:995 | Coins x1895 | 1 gp each | 1895 gp total
+2025-10-08 20:37:56 | rex | Rock Crab | ID:1623 | Uncut sapphire x1 | 25 gp each | 25 gp total
+2025-10-08 20:37:58 | rex | Rock Crab | ID:1623 | Uncut sapphire x1 | 25 gp each | 25 gp total
+2025-10-08 20:38:09 | rex | Rock Crab | ID:526 | Bones x1 | 1 gp each | 1 gp total
+2025-10-08 20:38:16 | rex | Rock Crab | ID:30000 | Resource box(small) x1 | 1 gp each | 1 gp total
+2025-10-08 20:39:14 | rex | Ground loot | ID:1623 | Uncut sapphire x1 | 25 gp each | 25 gp total
+2025-10-08 20:39:14 | rex | Ground loot | ID:1623 | Uncut sapphire x1 | 25 gp each | 25 gp total
+2025-10-08 20:39:14 | rex | Ground loot | ID:526 | Bones x1 | 1 gp each | 1 gp total
+2025-10-08 20:39:14 | rex | Ground loot | ID:30000 | Resource box(small) x1 | 1 gp each | 1 gp total
+2025-10-08 20:39:14 | rex | Ground loot | ID:1623 | Uncut sapphire x1 | 25 gp each | 25 gp total
+2025-10-08 20:39:14 | rex | Ground loot | ID:1623 | Uncut sapphire x1 | 25 gp each | 25 gp total
+2025-10-08 20:39:14 | rex | Ground loot | ID:526 | Bones x1 | 1 gp each | 1 gp total
+2025-10-08 20:39:14 | rex | Ground loot | ID:30000 | Resource box(small) x1 | 1 gp each | 1 gp total
+2025-10-08 20:39:17 | rex | Hobgoblin | ID:526 | Bones x1 | 1 gp each | 1 gp total
+2025-10-08 20:39:45 | rex | Rock Crab | ID:313 | Fishing bait x10 | 3 gp each | 30 gp total
+2025-10-08 20:39:53 | rex | Hobgoblin | ID:526 | Bones x1 | 1 gp each | 1 gp total
+2025-10-08 20:40:02 | rex | Hobgoblin | ID:526 | Bones x1 | 1 gp each | 1 gp total
+2025-10-08 20:40:02 | rex | Hobgoblin | ID:559 | Body rune x6 | 3 gp each | 18 gp total
+2025-10-08 20:40:25 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 20:40:25 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 20:43:30 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 20:43:30 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 20:46:42 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 20:46:42 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 21:00:56 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 21:00:56 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 22:40:55 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 22:40:55 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 22:43:47 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 22:43:47 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 22:45:59 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 22:45:59 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 22:51:07 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 22:51:07 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 22:52:34 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 22:52:34 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 22:55:09 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 22:55:09 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 22:57:00 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 22:57:00 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 23:00:19 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 23:00:19 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 23:05:11 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 23:05:11 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 23:05:18 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 23:05:18 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 23:05:46 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 23:05:46 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 23:05:56 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 23:05:56 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 23:07:49 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 23:07:49 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 23:08:02 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 23:08:02 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 23:13:25 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 23:13:25 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 23:13:37 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 23:13:37 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 23:29:25 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 23:29:25 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 23:33:22 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 23:33:22 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 23:37:15 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-08 23:37:15 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total

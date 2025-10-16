@@ -1,0 +1,21 @@
+2025-10-14 09:39:08 | rex | Ground loot | ID:1265 | Bronze pickaxe x1 | 1 gp each | 1 gp total
+2025-10-14 09:39:08 | rex | Ground loot | ID:1265 | Bronze pickaxe x1 | 1 gp each | 1 gp total
+2025-10-14 09:46:12 | rex | Ground loot | ID:1265 | Bronze pickaxe x1 | 1 gp each | 1 gp total
+2025-10-14 09:46:12 | rex | Ground loot | ID:1265 | Bronze pickaxe x1 | 1 gp each | 1 gp total
+2025-10-14 09:49:19 | rex | Ground loot | ID:1265 | Bronze pickaxe x1 | 1 gp each | 1 gp total
+2025-10-14 09:49:19 | rex | Ground loot | ID:1265 | Bronze pickaxe x1 | 1 gp each | 1 gp total
+2025-10-14 09:59:13 | rex | Ground loot | ID:1265 | Bronze pickaxe x1 | 1 gp each | 1 gp total
+2025-10-14 09:59:13 | rex | Ground loot | ID:1265 | Bronze pickaxe x1 | 1 gp each | 1 gp total
+2025-10-14 10:28:07 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-14 10:28:07 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-14 10:35:29 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-14 10:35:29 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-14 16:41:11 | rex | Ground loot | ID:1511 | Logs x1 | 4 gp each | 4 gp total
+2025-10-14 21:29:15 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-14 21:29:15 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-14 21:32:56 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-14 21:32:56 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-14 21:39:30 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-14 21:39:30 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-14 21:45:04 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total
+2025-10-14 21:45:04 | rex | Ground loot | ID:1059 | Leather gloves x1 | 6 gp each | 6 gp total

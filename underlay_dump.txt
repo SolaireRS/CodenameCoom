@@ -1,0 +1,236 @@
+=== FLOOR UNDERLAY DUMP ===
+Format: ID | RGB Color | HSL16 | Hue | Saturation | Luminance
+=========================================
+
+ID:    1 | RGB: 0x282820 | HSL16:  9372 | H:  42 | S:  28 | L:  36
+ID:    2 | RGB: 0xB7D49A | HSL16: 15462 | H:  64 | S: 101 | L: 183
+ID:    3 | RGB: 0xA99FE0 | HSL16: 45285 | H: 177 | S: 128 | L: 191
+ID:    4 | RGB: 0xFC49AA | HSL16:   965 | H: -23 | S: 245 | L: 162
+ID:    5 | RGB: 0x604040 | HSL16:  1331 | H:   0 | S:  51 | L:  80
+ID:    6 | RGB: 0x302020 | HSL16:  1049 | H:   0 | S:  51 | L:  40
+ID:    7 | RGB: 0x906830 | HSL16:  6705 | H:  24 | S: 128 | L:  96 <-- POSSIBLE LAVA
+ID:    8 | RGB: 0x383830 | HSL16:  9370 | H:  42 | S:  19 | L:  52
+ID:    9 | RGB: 0x7A7880 | HSL16: 44085 | H: 181 | S:   8 | L: 124
+ID:   10 | RGB: 0x282018 | HSL16:  3212 | H:  21 | S:  64 | L:  32
+ID:   11 | RGB: 0x504840 | HSL16:  4260 | H:  21 | S:  28 | L:  72
+ID:   12 | RGB: 0x484038 | HSL16:  4124 | H:  21 | S:  32 | L:  64
+ID:   13 | RGB: 0x807048 | HSL16:  8373 | H:  30 | S:  71 | L: 100 <-- POSSIBLE LAVA
+ID:   14 | RGB: 0x584828 | HSL16:  8618 | H:  28 | S:  96 | L:  64
+ID:   15 | RGB: 0x383828 | HSL16: 11413 | H:  42 | S:  42 | L:  48
+ID:   16 | RGB: 0x828B9F | HSL16: 41031 | H: 157 | S:  33 | L: 144
+ID:   17 | RGB: 0x003838 | HSL16: 34701 | H: 128 | S: 255 | L:  28
+ID:   18 | RGB: 0x7296B7 | HSL16: 39368 | H: 148 | S:  82 | L: 148
+ID:   19 | RGB: 0x303525 | HSL16: 13594 | H:  56 | S:  45 | L:  45
+ID:   20 | RGB: 0x788868 | HSL16: 14523 | H:  64 | S:  34 | L: 120
+ID:   21 | RGB: 0x803060 | HSL16:   429 | H: -25 | S: 116 | L:  88
+ID:   22 | RGB: 0x873968 | HSL16:   428 | H: -25 | S: 104 | L:  96
+ID:   23 | RGB: 0x6050A8 | HSL16: 45385 | H: 178 | S:  90 | L: 124
+ID:   24 | RGB: 0x282848 | HSL16: 41360 | H: 170 | S:  73 | L:  56
+ID:   25 | RGB: 0x183018 | HSL16: 19727 | H:  85 | S:  85 | L:  36
+ID:   26 | RGB: 0xB09058 | HSL16:  8502 | H:  27 | S:  90 | L: 132 <-- POSSIBLE LAVA
+ID:   27 | RGB: 0x191919 | HSL16:     1 | H:   0 | S:   0 | L:  25
+ID:   28 | RGB: 0x601880 | HSL16: 52892 | H: 200 | S: 175 | L:  76
+ID:   29 | RGB: 0x202018 | HSL16:  8337 | H:  42 | S:  36 | L:  28
+ID:   30 | RGB: 0x304040 | HSL16: 32915 | H: 128 | S:  36 | L:  56
+ID:   31 | RGB: 0x688080 | HSL16: 30771 | H: 128 | S:  26 | L: 116
+ID:   32 | RGB: 0x818173 | HSL16: 11320 | H:  42 | S:  14 | L: 122
+ID:   33 | RGB: 0x29380F | HSL16: 17043 | H:  58 | S: 147 | L:  35
+ID:   34 | RGB: 0x20250A | HSL16: 14861 | H:  50 | S: 147 | L:  23
+ID:   35 | RGB: 0x1C1813 | HSL16:  4238 | H:  23 | S:  49 | L:  23
+ID:   36 | RGB: 0xB89B67 | HSL16:  5446 | H:  27 | S:  92 | L: 143
+ID:   37 | RGB: 0x4B3E14 | HSL16:  8732 | H:  32 | S: 148 | L:  47
+ID:   38 | RGB: 0x3D2B0B | HSL16:  7829 | H:  27 | S: 177 | L:  36
+ID:   39 | RGB: 0x38422F | HSL16: 17567 | H:  65 | S:  43 | L:  56
+ID:   40 | RGB: 0x35720A | HSL16: 19232 | H:  67 | S: 214 | L:  62
+ID:   41 | RGB: 0x78673F | HSL16:  5423 | H:  29 | S:  79 | L:  91 <-- POSSIBLE LAVA
+ID:   42 | RGB: 0x90754B | HSL16:  6574 | H:  25 | S:  80 | L: 109 <-- POSSIBLE LAVA
+ID:   43 | RGB: 0x765A3D | HSL16:  6563 | H:  21 | S:  81 | L:  89 <-- POSSIBLE LAVA
+ID:   44 | RGB: 0x352A3D | HSL16: 48406 | H: 195 | S:  47 | L:  51
+ID:   45 | RGB: 0x4F4A53 | HSL16: 49200 | H: 194 | S:  14 | L:  78
+ID:   46 | RGB: 0x1B1222 | HSL16: 48529 | H: 194 | S:  78 | L:  26
+ID:   47 | RGB: 0x1B2233 | HSL16: 42255 | H: 158 | S:  78 | L:  39
+ID:   48 | RGB: 0x35720A | HSL16: 17179 | H:  67 | S: 214 | L:  62
+ID:   49 | RGB: 0x58680B | HSL16: 13223 | H:  50 | S: 207 | L:  57
+ID:   50 | RGB: 0x78680B | HSL16:  8865 | H:  36 | S: 213 | L:  65 <-- POSSIBLE LAVA
+ID:   51 | RGB: 0x6CAC10 | HSL16: 14133 | H:  60 | S: 212 | L:  94
+ID:   52 | RGB: 0x819531 | HSL16: 11696 | H:  51 | S: 129 | L:  99
+ID:   53 | RGB: 0x55520A | HSL16:  9875 | H:  40 | S: 202 | L:  47
+ID:   54 | RGB: 0x125841 | HSL16: 29331 | H: 113 | S: 169 | L:  53
+ID:   55 | RGB: 0x767676 | HSL16:  1072 | H:   0 | S:   0 | L: 118
+ID:   56 | RGB: 0x4D4D4D | HSL16:    43 | H:   0 | S:   0 | L:  77
+ID:   57 | RGB: 0x2E2E2E | HSL16:    31 | H:   0 | S:   0 | L:  46
+ID:   58 | RGB: 0xEEEEEE | HSL16:  1141 | H:   0 | S:   0 | L: 238
+ID:   59 | RGB: 0xD1D6E7 | HSL16: 42095 | H: 160 | S:  78 | L: 220
+ID:   60 | RGB: 0xD1E7D6 | HSL16: 25708 | H:  95 | S:  78 | L: 220
+ID:   61 | RGB: 0xB19A3D | HSL16:  7602 | H:  34 | S: 124 | L: 119 <-- POSSIBLE LAVA
+ID:   62 | RGB: 0xD0C074 | HSL16:  9676 | H:  35 | S: 125 | L: 162
+ID:   63 | RGB: 0x3D2B0B | HSL16:  4753 | H:  27 | S: 177 | L:  36
+ID:   64 | RGB: 0x644E1E | HSL16:  5665 | H:  29 | S: 137 | L:  65
+ID:   65 | RGB: 0x654D0B | HSL16:  7829 | H:  31 | S: 205 | L:  56 <-- POSSIBLE LAVA
+ID:   66 | RGB: 0x663300 | HSL16:  7061 | H:  21 | S: 255 | L:  51 <-- POSSIBLE LAVA
+ID:   67 | RGB: 0x664411 | HSL16:  7968 | H:  25 | S: 182 | L:  59 <-- POSSIBLE LAVA
+ID:   68 | RGB: 0xCBBA76 | HSL16: 10459 | H:  34 | S: 113 | L: 160
+ID:   69 | RGB: 0x644E1E | HSL16:  6694 | H:  29 | S: 137 | L:  65
+ID:   70 | RGB: 0x654D0B | HSL16:  8991 | H:  31 | S: 205 | L:  56 <-- POSSIBLE LAVA
+ID:   71 | RGB: 0x663300 | HSL16:  6040 | H:  21 | S: 255 | L:  51 <-- POSSIBLE LAVA
+ID:   72 | RGB: 0x030303 | HSL16:     0 | H:   0 | S:   0 | L:   3
+ID:   73 | RGB: 0x557799 | HSL16: 37178 | H: 149 | S:  73 | L: 119
+ID:   74 | RGB: 0x995566 | HSL16:   315 | H: -10 | S:  73 | L: 119
+ID:   75 | RGB: 0x557799 | HSL16: 36151 | H: 149 | S:  73 | L: 119
+ID:   76 | RGB: 0x0A1122 | HSL16: 40467 | H: 158 | S: 139 | L:  22
+ID:   77 | RGB: 0xFE0000 | HSL16:  1987 | H:   0 | S: 255 | L: 127
+ID:   78 | RGB: 0xD9BB93 | HSL16:  4697 | H:  24 | S: 121 | L: 182
+ID:   79 | RGB: 0x7D7D57 | HSL16: 11436 | H:  42 | S:  45 | L: 106
+ID:   80 | RGB: 0x666547 | HSL16: 11440 | H:  41 | S:  45 | L:  86 <-- POSSIBLE LAVA
+ID:   81 | RGB: 0x8F8E4D | HSL16:  9408 | H:  42 | S:  76 | L: 110 <-- POSSIBLE LAVA
+ID:   82 | RGB: 0x75743F | HSL16:  9378 | H:  41 | S:  76 | L:  90 <-- POSSIBLE LAVA
+ID:   83 | RGB: 0x9C9B6C | HSL16: 10423 | H:  41 | S:  49 | L: 132
+ID:   84 | RGB: 0x78875E | HSL16: 13486 | H:  58 | S:  45 | L: 114
+ID:   85 | RGB: 0x5F6A4A | HSL16: 15528 | H:  57 | S:  45 | L:  90
+ID:   86 | RGB: 0xC8B9AE | HSL16:  3164 | H:  18 | S:  48 | L: 187
+ID:   87 | RGB: 0x76B8AF | HSL16: 33105 | H: 122 | S:  80 | L: 151
+ID:   88 | RGB: 0x1B6F88 | HSL16: 33456 | H: 137 | S: 171 | L:  81
+ID:   89 | RGB: 0x083245 | HSL16: 35613 | H: 141 | S: 202 | L:  38
+ID:   90 | RGB: 0x85665F | HSL16:  1204 | H:   7 | S:  42 | L: 114 <-- POSSIBLE LAVA
+ID:   91 | RGB: 0x9B664E | HSL16:  4537 | H:  13 | S:  84 | L: 116 <-- POSSIBLE LAVA
+ID:   92 | RGB: 0x5C5444 | HSL16:  6321 | H:  28 | S:  38 | L:  80
+ID:   93 | RGB: 0x38562F | HSL16: 18730 | H:  75 | S:  75 | L:  66
+ID:   94 | RGB: 0x464034 | HSL16:  7318 | H:  28 | S:  37 | L:  61
+ID:   95 | RGB: 0x3E6995 | HSL16: 39219 | H: 149 | S: 105 | L: 105
+ID:   96 | RGB: 0x4B3E14 | HSL16:  9761 | H:  32 | S: 148 | L:  47
+ID:   97 | RGB: 0x5C543C | HSL16:  7342 | H:  32 | S:  53 | L:  76
+ID:   98 | RGB: 0x2F2B1F | HSL16:  9366 | H:  32 | S:  52 | L:  39
+ID:   99 | RGB: 0x276D27 | HSL16: 21019 | H:  85 | S: 121 | L:  74
+ID:  100 | RGB: 0x396215 | HSL16: 16916 | H:  65 | S: 165 | L:  59
+ID:  101 | RGB: 0x705650 | HSL16:    51 | H:   8 | S:  42 | L:  96 <-- POSSIBLE LAVA
+ID:  102 | RGB: 0x665F47 | HSL16:  6181 | H:  33 | S:  45 | L:  86 <-- POSSIBLE LAVA
+ID:  103 | RGB: 0x111E1A | HSL16: 26764 | H: 114 | S:  70 | L:  23
+ID:  104 | RGB: 0x343B4B | HSL16: 38041 | H: 157 | S:  46 | L:  63
+ID:  105 | RGB: 0x212A3E | HSL16: 40223 | H: 157 | S:  78 | L:  47
+ID:  106 | RGB: 0x0A1122 | HSL16: 40328 | H: 158 | S: 139 | L:  22
+ID:  107 | RGB: 0x2B3344 | HSL16: 39076 | H: 157 | S:  57 | L:  55
+ID:  108 | RGB: 0x273043 | HSL16: 41114 | H: 156 | S:  67 | L:  53
+ID:  109 | RGB: 0x958B67 | HSL16:  9414 | H:  33 | S:  46 | L: 126
+ID:  110 | RGB: 0x7D7657 | HSL16:  6315 | H:  34 | S:  45 | L: 106 <-- POSSIBLE LAVA
+ID:  111 | RGB: 0x666666 | HSL16:    44 | H:   0 | S:   0 | L: 102
+ID:  112 | RGB: 0x333333 | HSL16:    36 | H:   0 | S:   0 | L:  51
+ID:  113 | RGB: 0x2B2E2D | HSL16: 26644 | H: 113 | S:   8 | L:  44
+ID:  114 | RGB: 0x64BB75 | HSL16: 24008 | H:  93 | S:  98 | L: 143
+ID:  115 | RGB: 0x33501E | HSL16: 16790 | H:  67 | S: 116 | L:  55
+ID:  116 | RGB: 0x71155C | HSL16:   667 | H: -32 | S: 175 | L:  67
+ID:  117 | RGB: 0x665F47 | HSL16:  8373 | H:  33 | S:  45 | L:  86 <-- POSSIBLE LAVA
+ID:  118 | RGB: 0x752222 | HSL16:   430 | H:   0 | S: 140 | L:  75
+ID:  119 | RGB: 0x75624E | HSL16:  6312 | H:  21 | S:  51 | L:  97 <-- POSSIBLE LAVA
+ID:  120 | RGB: 0x726B4F | HSL16:  6309 | H:  34 | S:  46 | L:  96 <-- POSSIBLE LAVA
+ID:  121 | RGB: 0x603028 | HSL16:  1311 | H:   6 | S: 105 | L:  68
+ID:  122 | RGB: 0x300000 | HSL16:   917 | H:   0 | S: 255 | L:  24
+ID:  123 | RGB: 0x312D21 | HSL16:  8345 | H:  32 | S:  49 | L:  41
+ID:  124 | RGB: 0xB8B098 | HSL16:  7505 | H:  32 | S:  46 | L: 168
+ID:  125 | RGB: 0xA59E89 | HSL16:  8390 | H:  32 | S:  34 | L: 151
+ID:  126 | RGB: 0x946B03 | HSL16:  8093 | H:  30 | S: 245 | L:  75 <-- POSSIBLE LAVA
+ID:  127 | RGB: 0x474231 | HSL16:  6294 | H:  32 | S:  46 | L:  60
+ID:  128 | RGB: 0x312D21 | HSL16:  8349 | H:  32 | S:  49 | L:  41
+ID:  129 | RGB: 0x827944 | HSL16: 10539 | H:  36 | S:  80 | L:  99 <-- POSSIBLE LAVA
+ID:  130 | RGB: 0x403B2C | HSL16:  7318 | H:  32 | S:  47 | L:  54
+ID:  131 | RGB: 0x312C21 | HSL16:  9363 | H:  29 | S:  49 | L:  41
+ID:  132 | RGB: 0x1C1B14 | HSL16:  9482 | H:  37 | S:  42 | L:  24
+ID:  133 | RGB: 0x2A3B1B | HSL16: 14744 | H:  65 | S:  95 | L:  43
+ID:  134 | RGB: 0x077156 | HSL16: 31636 | H: 117 | S: 226 | L:  60
+ID:  135 | RGB: 0x3A462E | HSL16: 16660 | H:  64 | S:  52 | L:  58
+ID:  136 | RGB: 0x3B3E45 | HSL16: 42138 | H: 157 | S:  20 | L:  64
+ID:  137 | RGB: 0x31363A | HSL16: 38042 | H: 146 | S:  21 | L:  53
+ID:  138 | RGB: 0xC08048 | HSL16:  6587 | H:  19 | S: 123 | L: 132 <-- POSSIBLE LAVA
+ID:  139 | RGB: NONE | HSL16:     0 | H:   0 | S:   0 | L:   0
+ID:  140 | RGB: 0xA8A098 | HSL16:  7257 | H:  21 | S:  21 | L: 160
+ID:  141 | RGB: 0x3C2823 | HSL16:  1304 | H:   8 | S:  67 | L:  47
+ID:  142 | RGB: 0xDDA6DD | HSL16:   227 | H: -42 | S: 112 | L: 193
+ID:  143 | RGB: 0x50A0B8 | HSL16: 35271 | H: 137 | S: 107 | L: 132
+ID:  144 | RGB: 0x005868 | HSL16: 32670 | H: 134 | S: 255 | L:  52
+ID:  145 | RGB: 0x404040 | HSL16:  1066 | H:   0 | S:   0 | L:  64
+ID:  146 | RGB: 0x383838 | HSL16:    20 | H:   0 | S:   0 | L:  56
+ID:  147 | RGB: 0x303030 | HSL16:  1039 | H:   0 | S:   0 | L:  48
+ID:  148 | RGB: 0x282828 | HSL16:    15 | H:   0 | S:   0 | L:  40
+ID:  149 | RGB: 0x202020 | HSL16:    25 | H:   0 | S:   0 | L:  32
+ID:  150 | RGB: 0x181818 | HSL16:     5 | H:   0 | S:   0 | L:  24
+ID:  151 | RGB: 0xFFFFFF | HSL16:   123 | H:   0 | S:   0 | L: 255
+ID:  152 | RGB: 0x7C6861 | HSL16:  3122 | H:  11 | S:  31 | L: 110 <-- POSSIBLE LAVA
+ID:  153 | RGB: 0x484746 | HSL16:  7197 | H:  21 | S:   3 | L:  71
+ID:  154 | RGB: 0x7B7978 | HSL16:  5180 | H:  14 | S:   3 | L: 121
+ID:  155 | RGB: 0x4E2C2A | HSL16:   287 | H:   2 | S:  76 | L:  60
+ID:  156 | RGB: 0xD9BF93 | HSL16:  5715 | H:  26 | S: 121 | L: 182
+ID:  157 | RGB: 0x99A5A5 | HSL16: 31830 | H: 128 | S:  15 | L: 159
+ID:  158 | RGB: 0x4D5757 | HSL16: 32946 | H: 128 | S:  15 | L:  82
+ID:  159 | RGB: 0xC9CFCF | HSL16: 33905 | H: 128 | S:  14 | L: 204
+ID:  160 | RGB: 0x6F7D7D | HSL16: 30770 | H: 128 | S:  15 | L: 118
+ID:  161 | RGB: 0x4A5253 | HSL16: 31784 | H: 132 | S:  14 | L:  78
+ID:  162 | RGB: 0x2D4A53 | HSL16: 35095 | H: 138 | S:  76 | L:  64
+ID:  163 | RGB: 0x243C43 | HSL16: 36125 | H: 137 | S:  77 | L:  51
+ID:  164 | RGB: 0x19353D | HSL16: 33170 | H: 137 | S: 107 | L:  43
+ID:  165 | RGB: 0x102D36 | HSL16: 36235 | H: 138 | S: 138 | L:  35
+ID:  166 | RGB: 0x08242C | HSL16: 36495 | H: 137 | S: 177 | L:  26
+ID:  167 | RGB: 0x30120E | HSL16:  1555 | H:   5 | S: 140 | L:  31
+ID:  168 | RGB: 0x391915 | HSL16:  2448 | H:   4 | S: 118 | L:  39
+ID:  169 | RGB: 0x4E2F2C | HSL16:  1176 | H:   3 | S:  71 | L:  61
+ID:  170 | RGB: 0x280505 | HSL16:   652 | H:   0 | S: 199 | L:  22
+ID:  171 | RGB: 0x54534D | HSL16:  9248 | H:  36 | S:  11 | L:  80
+ID:  172 | RGB: 0x716F6A | HSL16:  7218 | H:  30 | S:   8 | L: 109
+ID:  173 | RGB: 0x97958A | HSL16:  8273 | H:  36 | S:  14 | L: 144
+ID:  174 | RGB: 0x908180 | HSL16:  1092 | H:   2 | S:  17 | L: 136
+ID:  175 | RGB: 0x443D3C | HSL16:  1048 | H:   5 | S:  16 | L:  64
+ID:  176 | RGB: 0x3E2B21 | HSL16:  5387 | H:  14 | S:  78 | L:  47
+ID:  177 | RGB: 0xA37F58 | HSL16:  5303 | H:  22 | S:  76 | L: 125 <-- POSSIBLE LAVA
+ID:  178 | RGB: 0x6B5839 | HSL16:  5292 | H:  26 | S:  78 | L:  82 <-- POSSIBLE LAVA
+ID:  179 | RGB: 0x534E4A | HSL16:  5160 | H:  18 | S:  14 | L:  78
+ID:  180 | RGB: 0x242433 | HSL16: 43160 | H: 170 | S:  44 | L:  43
+ID:  181 | RGB: 0x18192D | HSL16: 41241 | H: 168 | S:  77 | L:  34
+ID:  182 | RGB: 0x121322 | HSL16: 43268 | H: 168 | S:  78 | L:  26
+ID:  183 | RGB: 0x090912 | HSL16: 44288 | H: 170 | S:  85 | L:  13
+ID:  184 | RGB: 0x4A534E | HSL16: 24615 | H: 104 | S:  14 | L:  78
+ID:  185 | RGB: 0x855648 | HSL16:  3372 | H:   9 | S:  76 | L: 102 <-- POSSIBLE LAVA
+ID:  186 | RGB: 0x9E6755 | HSL16:  4415 | H:  10 | S:  76 | L: 121 <-- POSSIBLE LAVA
+ID:  187 | RGB: 0x6B4539 | HSL16:   297 | H:  10 | S:  78 | L:  82 <-- POSSIBLE LAVA
+ID:  188 | RGB: 0xA37158 | HSL16:  3392 | H:  14 | S:  76 | L: 125 <-- POSSIBLE LAVA
+ID:  189 | RGB: 0x383C39 | HSL16: 25637 | H:  96 | S:   8 | L:  58
+ID:  190 | RGB: 0x303030 | HSL16:    25 | H:   0 | S:   0 | L:  48
+ID:  191 | RGB: 0x4C5950 | HSL16: 26782 | H:  98 | S:  20 | L:  82
+ID:  192 | RGB: 0x5E7364 | HSL16: 22588 | H:  97 | S:  25 | L: 104
+ID:  193 | RGB: 0x617E69 | HSL16: 23595 | H:  97 | S:  33 | L: 111
+ID:  194 | RGB: 0x7F9A86 | HSL16: 23617 | H:  96 | S:  29 | L: 140
+ID:  195 | RGB: 0x8BA692 | HSL16: 24643 | H:  96 | S:  33 | L: 152
+ID:  196 | RGB: 0xAAAAAA | HSL16:    86 | H:   0 | S:   0 | L: 170
+ID:  197 | RGB: 0x444444 | HSL16:    27 | H:   0 | S:   0 | L:  68
+ID:  198 | RGB: 0x3D2B0B | HSL16:  8850 | H:  27 | S: 177 | L:  36
+ID:  199 | RGB: 0x836A44 | HSL16:  8635 | H:  25 | S:  81 | L:  99 <-- POSSIBLE LAVA
+ID:  200 | RGB: 0xA07048 | HSL16:  3503 | H:  19 | S:  97 | L: 116 <-- POSSIBLE LAVA
+ID:  201 | RGB: 0x4E3C2A | HSL16:  4377 | H:  21 | S:  76 | L:  60
+ID:  202 | RGB: 0xC0AA86 | HSL16:  7368 | H:  26 | S:  79 | L: 163
+ID:  203 | RGB: 0x6F492D | HSL16:  4523 | H:  18 | S: 108 | L:  78 <-- POSSIBLE LAVA
+ID:  204 | RGB: 0x89A1BF | HSL16: 37207 | H: 151 | S:  75 | L: 164
+ID:  205 | RGB: 0x4B658F | HSL16: 40116 | H: 154 | S:  79 | L: 109
+ID:  206 | RGB: 0x253557 | HSL16: 38300 | H: 157 | S: 103 | L:  62
+ID:  207 | RGB: 0x7B9FB7 | HSL16: 37207 | H: 145 | S:  74 | L: 153
+ID:  208 | RGB: 0x93A5BC | HSL16: 38228 | H: 151 | S:  59 | L: 167
+ID:  209 | RGB: 0x586C8C | HSL16: 38082 | H: 154 | S:  58 | L: 114
+ID:  210 | RGB: 0x333F59 | HSL16: 39066 | H: 157 | S:  69 | L:  70
+ID:  211 | RGB: 0x86A2B4 | HSL16: 36042 | H: 144 | S:  59 | L: 157
+ID:  212 | RGB: 0x1E1A17 | HSL16:  4225 | H:  18 | S:  33 | L:  26
+ID:  213 | RGB: 0x2D2927 | HSL16:  5141 | H:  14 | S:  18 | L:  42
+ID:  214 | RGB: 0x383431 | HSL16:  2077 | H:  18 | S:  17 | L:  52
+ID:  215 | RGB: 0x48392E | HSL16:  6298 | H:  18 | S:  56 | L:  59
+ID:  216 | RGB: 0xF1F2F3 | HSL16: 40046 | H: 149 | S:  18 | L: 242
+ID:  217 | RGB: 0xA28876 | HSL16:  3137 | H:  17 | S:  48 | L: 140
+ID:  218 | RGB: 0xE6E6EB | HSL16: 41068 | H: 170 | S:  27 | L: 232
+ID:  219 | RGB: 0x3D3D3D | HSL16:  1054 | H:   0 | S:   0 | L:  61
+ID:  220 | RGB: 0x46463E | HSL16:  9365 | H:  42 | S:  15 | L:  66
+ID:  221 | RGB: 0x46463E | HSL16: 11308 | H:  42 | S:  15 | L:  66
+ID:  222 | RGB: 0x2A2A25 | HSL16: 12318 | H:  42 | S:  16 | L:  39
+ID:  223 | RGB: 0xAE9062 | HSL16:  5432 | H:  25 | S:  81 | L: 136 <-- POSSIBLE LAVA
+ID:  224 | RGB: 0x48546A | HSL16: 40114 | H: 155 | S:  48 | L:  89
+ID:  225 | RGB: 0x445169 | HSL16: 38055 | H: 155 | S:  54 | L:  86
+ID:  226 | RGB: 0x020B2A | HSL16: 39810 | H: 161 | S: 232 | L:  22
+ID:  227 | RGB: 0xF9FAFA | HSL16: 31856 | H: 128 | S:  19 | L: 249
+ID:  228 | RGB: 0x99A5A5 | HSL16: 33871 | H: 128 | S:  15 | L: 159
+ID:  229 | RGB: 0x647071 | HSL16: 33851 | H: 131 | S:  15 | L: 106
+ID:  230 | RGB: 0x454137 | HSL16:  6307 | H:  30 | S:  28 | L:  62
+
+=== END OF DUMP ===
