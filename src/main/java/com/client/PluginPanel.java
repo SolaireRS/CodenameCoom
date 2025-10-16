@@ -856,27 +856,80 @@ public class PluginPanel extends JPanel {
         private void handleGPUPluginToggle() {
             try {
                 if (plugin.isEnabled) {
+                    // ENABLE GPU RENDERING
                     if (!plugin.gpuPlugin.isInitialized()) {
-                        if (!plugin.gpuPlugin.initialize()) {
+                        // Initialize with game dimensions
+                        int width = 765;  // Default OSRS width
+                        int height = 503; // Default OSRS height
+                        
+                        // Try to get actual game dimensions if available
+                        try {
+                            Client clientInstance = gameFrame.getClientInstance();
+                            if (clientInstance != null) {
+                                width = Client.currentGameWidth;
+                                height = Client.currentGameHeight;
+                            }
+                        } catch (Exception e) {
+                            System.err.println("Could not get game dimensions, using defaults");
+                        }
+                        
+                        if (!plugin.gpuPlugin.initialize(width, height)) {
                             // Failed to initialize, revert toggle
                             plugin.isEnabled = false;
                             toggleButton.setEnabled(false);
-                            showPluginError("Failed to initialize GPU plugin. Check GPU compatibility.");
+                            showPluginError("Failed to initialize GPU plugin. Check GPU compatibility.\nMake sure you have OpenGL 3.3+ support.");
                             return;
                         }
                     }
+                    
+                    // Enable GPU rendering
                     plugin.gpuPlugin.enable();
-                    System.out.println("GPU Plugin enabled successfully");
+                    
+                    // CRITICAL: Tell the client to use GPU rendering
+                    Client clientInstance = gameFrame.getClientInstance();
+                    if (clientInstance != null) {
+                        clientInstance.useGPURendering = true;
+                        Rasterizer.useGPU = true;
+                        System.out.println("✓ GPU 3D Rendering enabled - Software rasterizer disabled");
+                    } else {
+                        System.err.println("Warning: Could not access client to enable GPU rendering");
+                    }
+                    
                 } else {
+                    // DISABLE GPU RENDERING
                     plugin.gpuPlugin.disable();
-                    System.out.println("GPU Plugin disabled");
+                    
+                    // CRITICAL: Tell the client to use software rendering
+                    Client clientInstance = gameFrame.getClientInstance();
+                    if (clientInstance != null) {
+                        clientInstance.useGPURendering = false;
+                        Rasterizer.useGPU = false;
+                        System.out.println("✓ Software rendering enabled - GPU disabled");
+                    }
                 }
             } catch (Exception e) {
                 // Handle errors gracefully
                 plugin.isEnabled = false;
                 toggleButton.setEnabled(false);
-                showPluginError("GPU Plugin error: " + e.getMessage());
+                
+                String errorMsg = "GPU Plugin error: " + e.getMessage();
+                if (e.getMessage() != null && e.getMessage().contains("OpenGL")) {
+                    errorMsg += "\n\nYour GPU may not support OpenGL 3.3+";
+                }
+                
+                showPluginError(errorMsg);
                 e.printStackTrace();
+                
+                // Make sure to disable GPU in client if error occurs
+                try {
+                    Client clientInstance = gameFrame.getClientInstance();
+                    if (clientInstance != null) {
+                        clientInstance.useGPURendering = false;
+                        Rasterizer.useGPU = false;
+                    }
+                } catch (Exception ex) {
+                    // Ignore
+                }
             }
         }
         

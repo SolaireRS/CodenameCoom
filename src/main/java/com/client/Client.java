@@ -69,6 +69,7 @@ import com.client.model.rt7_anims.AnimKeyFrameSet;
 import com.client.plugins.ammo.AmmoPlugin;
 import com.client.plugins.gpu.GPUConfig;
 import com.client.plugins.gpu.GPUPlugin;
+import com.client.plugins.gpu.GpuPluginRunelite;
 import com.client.plugins.tilemarkers.TileCoordinate;
 import com.client.plugins.tilemarkers.TileMarker;
 import com.client.plugins.tilemarkers.TileMarkersPlugin;
@@ -94,6 +95,9 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 public class Client extends RSApplet {
+    public GpuPluginRunelite gpuPluginRL;
+    public boolean useGPURendering = false;
+    
 	private static final int THREAD_COUNT = Math.max(2, Runtime.getRuntime().availableProcessors() - 1);
 	private static final ExecutorService entityThreadPool = Executors.newFixedThreadPool(THREAD_COUNT);
 	private static long lastFpsTime = System.nanoTime();
@@ -4468,12 +4472,6 @@ public class Client extends RSApplet {
 	}
 	public static Client getClient(boolean runelite, String...args) {
 		try {
-			/*try {
-				ClientDiscordRPC.initialize();
-			} catch (Exception e) {
-				System.err.println("Failed to establish Discord RPC.");
-				e.printStackTrace();
-			}*/
 
 			System.out.println("Running Java version " + getVersion());
 			Client.runelite = runelite;
@@ -7337,7 +7335,7 @@ public class Client extends RSApplet {
 	            throw e;
 	        }
 	    }
-
+	    initializeGPU();
 	    // Move GPU testing to AFTER the main client run() completes
 	    if (!gpuTested && loggedIn) { // Only test after client is logged in and stable
 	        System.out.println("Testing GPU after client initialization...");
@@ -18200,6 +18198,24 @@ public class Client extends RSApplet {
         tileMarkersPlugin.initialize();
         tileMarkersPlugin.enable();
     }
+    public void initializeGPU() {
+        try {
+            gpuPluginRL = new GpuPluginRunelite(this);
+            
+            if (gpuPluginRL.initialize()) {
+                System.out.println("✓ GPU Plugin initialized");
+                useGPURendering = true;
+                gpuPluginRL.enable();
+            } else {
+                System.err.println("✗ GPU initialization failed");
+                useGPURendering = false;
+            }
+        } catch (Exception e) {
+            System.err.println("GPU Error: " + e.getMessage());
+            e.printStackTrace();
+            useGPURendering = false;
+        }
+    }
 	public void reset() {
 		//System.out.println("test1");
 		if (spinClick) {
@@ -18236,7 +18252,7 @@ public class Client extends RSApplet {
 	public void method146() {
 	    // ===== SETUP PHASE =====
 	    anInt1265++;
-	    
+
 	    // Batch entity updates
 	    method47(true);
 	    method26(true);
@@ -18244,22 +18260,49 @@ public class Client extends RSApplet {
 	    method26(false);
 	    method55();
 	    method104();
+
+	    // ===== GPU RENDERING CHECK =====
+	    if (useGPURendering && gpuPluginRL != null && gpuPluginRL.isEnabled()) {
+	        // ===== GPU PATH =====
+	        renderWithGPU();
+	        
+	        // Still render UI elements (they're 2D overlays)
+	        if (loggedIn) {
+	            if (loginScreenGraphicsBuffer == null &&
+	                (currentScreenMode != ScreenMode.FIXED || stretched)) {
+	                drawMinimap();
+	                drawTabArea();
+	                drawChatArea();
+	            }
+	            draw3dScreen(); // UI elements
+	        }
+	        
+	        if (getUserSettings().isGroundItemOverlay()) {
+	            displayGroundItems();
+	        }
+	        
+	        processExperienceCounter();
+	        presentFrame();
+	        
+	        return; // Exit early - GPU handled the 3D rendering
+	    }
 	    
+	    // ===== SOFTWARE RENDERING PATH (ORIGINAL CODE) =====
 	    // Enable depth buffer for fog
 	    Rasterizer.saveDepth = true;
-	    
+
 	    // ===== CAMERA SETUP =====
 	    setupCamera();
-	    
+
 	    // ===== CAMERA SHAKE =====
 	    int l = xCameraPos;
 	    int i1 = zCameraPos;
 	    int j1 = yCameraPos;
 	    int k1 = yCameraCurve;
 	    int l1 = xCameraCurve;
-	    
+
 	    applyCameraShake();
-	    
+
 	    // ===== RENDERING SETUP =====
 	    int k2 = Rasterizer.lastTextureRetrievalCount;
 	    Model.objectsHovering = 0;
@@ -18272,9 +18315,9 @@ public class Client extends RSApplet {
 	    clearBuffersOptimized();
 
 	    // ===== MAIN SCENE RENDERING (80% OF FRAME TIME!) =====
-	    scene.draw(xCameraPos, yCameraPos, xCameraCurve, zCameraPos, 
-	               inCutScene ? method121() : method120(), yCameraCurve);
-	    
+	    scene.draw(xCameraPos, yCameraPos, xCameraCurve, zCameraPos,
+	        inCutScene ? method121() : method120(), yCameraCurve);
+
 	    // ===== POST-SCENE RENDERING =====
 	    try {
 	        if (scene != null) {
@@ -18283,9 +18326,9 @@ public class Client extends RSApplet {
 	    } catch (Exception e) {
 	        System.err.println("Error rendering tile markers: " + e.getMessage());
 	    }
-	    
+
 	    renderFogEffects();
-	    
+
 	    WorldController.focalLength = 519;
 	    scene.clearObj5Cache();
 	    updateEntities();
@@ -18294,7 +18337,7 @@ public class Client extends RSApplet {
 
 	    // ===== UI RENDERING =====
 	    if (loggedIn) {
-	        if (loginScreenGraphicsBuffer == null && 
+	        if (loginScreenGraphicsBuffer == null &&
 	            (currentScreenMode != ScreenMode.FIXED || stretched)) {
 	            drawMinimap();
 	            drawTabArea();
@@ -18302,20 +18345,65 @@ public class Client extends RSApplet {
 	        }
 	        draw3dScreen();
 	    }
-	    
+
 	    if (getUserSettings().isGroundItemOverlay()) {
 	        displayGroundItems();
 	    }
-	    
-	    draw3dScreen(); // Why called twice?
-	    processExperienceCounter();
-	    // processExperienceCounter(); // Why called twice? Remove!
 
-	    // ===== GPU PLUGIN =====
+	    draw3dScreen();
+	    processExperienceCounter();
+
+	    // ===== GPU PLUGIN (post-processing only in software mode) =====
 	    applyGPUEffects();
 
 	    // ===== PRESENT TO SCREEN =====
 	    presentFrame();
+
+	    // Restore camera
+	    xCameraPos = l;
+	    zCameraPos = i1;
+	    yCameraPos = j1;
+	    yCameraCurve = k1;
+	    xCameraCurve = l1;
+	}
+	/**
+	 * GPU-accelerated rendering path
+	 */
+	private void renderWithGPU() {
+	    // Setup camera (still needed for correct view)
+	    setupCamera();
+	    
+	    // Camera shake (still needed)
+	    int l = xCameraPos;
+	    int i1 = zCameraPos;
+	    int j1 = yCameraPos;
+	    int k1 = yCameraCurve;
+	    int l1 = xCameraCurve;
+	    
+	    applyCameraShake();
+	    
+	    // Model interaction setup
+	    Model.objectsHovering = 0;
+	    Model.objectExist = true;
+	    Model.cursorX = super.getMouseX() - 4;
+	    Model.cursorY = super.getMouseY() - 4;
+	    WorldController.focalLength = 519;
+	    
+	    // **MAIN GPU RENDER CALL**
+	    gpuPluginRL.render();
+	    
+	    // Post-rendering effects
+	    try {
+	        if (scene != null) {
+	            scene.renderTileMarkers();
+	        }
+	    } catch (Exception e) {
+	        System.err.println("Error rendering tile markers: " + e.getMessage());
+	    }
+	    
+	    // Entity updates
+	    updateEntities();
+	    drawHeadIcon();
 	    
 	    // Restore camera
 	    xCameraPos = l;
@@ -18324,7 +18412,6 @@ public class Client extends RSApplet {
 	    yCameraCurve = k1;
 	    xCameraCurve = l1;
 	}
-
 	// ===== OPTIMIZED HELPER METHODS =====
 
 	private void setupCamera() {
@@ -19149,7 +19236,7 @@ public class Client extends RSApplet {
 	private String[] chatNames;
 	private String[] chatMessages;
 	private int tickDelta;
-	private WorldController scene;
+	public WorldController scene;
 	private int menuScreenArea;
 	private int menuOffsetX;
 	private int menuOffsetY;

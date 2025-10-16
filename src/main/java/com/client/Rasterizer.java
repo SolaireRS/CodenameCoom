@@ -3,6 +3,7 @@ package com.client;
 import com.client.plugins.gpu.GPUPlugin;
 
 public final class Rasterizer extends DrawingArea {
+    public static boolean useGPU = false;
 	private static int effectCounter = 0;
 	private static final float NEAR_CLIP_DISTANCE = 50.0f; // Adjust this value as needed
 	public static boolean saveDepth;
@@ -483,6 +484,9 @@ public final class Rasterizer extends DrawingArea {
 	public static void drawMaterializedTriangle(int y1, int y2, int y3, int x1, int x2, int x3, int hsl1, int hsl2,
 			int hsl3, int tx1, int tx2, int tx3, int ty1, int ty2, int ty3, int tz1, int tz2, int tz3, int tex, float z1,
 			float z2, float z3) {
+	    if (useGPU) {
+	        return; // Skip software rendering
+	    }
 		// CRITICAL FIX: Clip triangles too close to camera
 		if (shouldClipTriangle(z1, z2, z3)) {
 			return;
@@ -1266,6 +1270,9 @@ public final class Rasterizer extends DrawingArea {
 
 	public static void drawGouraudTriangle(int y1, int y2, int y3, int x1, int x2, int x3, int hsl1, int hsl2, int hsl3,
 			float z1, float z2, float z3) {
+	    if (useGPU) {
+	        return; // Skip software rendering
+	    }
 		// CRITICAL FIX: Clip triangles too close to camera
 		if (shouldClipTriangle(z1, z2, z3)) {
 			return;
